@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mssn/loginsample_app/build/flutter_uploader/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/mssn/.gradle/caches/transforms-2/files-2.1/50856e3b3dff4abeea0be4b760022d8b/core-1.2.0-alpha04/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/mssn/loginsample_app/build/flutter_uploader/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/mssn/.gradle/caches/transforms-2/files-2.1/50856e3b3dff4abeea0be4b760022d8b/core-1.2.0-alpha04/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/mssn/loginsample_app/build/flutter_uploader/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/mssn/.gradle/caches/transforms-2/files-2.1/50856e3b3dff4abeea0be4b760022d8b/core-1.2.0-alpha04/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/mssn/loginsample_app/build/flutter_uploader/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/mssn/.gradle/caches/transforms-2/files-2.1/50856e3b3dff4abeea0be4b760022d8b/core-1.2.0-alpha04/res/drawable/notification_bg_low.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/mssn/loginsample_app/build/flutter_uploader/intermediates/res/merged/release/drawable-mdpi-v4/ic_upload.png",
+        "source": "/Users/mssn/Downloads/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_uploader-1.2.0/android/src/main/res/drawable-mdpi/ic_upload.png"
+    },
+    {
+        "merged": "/Users/mssn/loginsample_app/build/flutter_uploader/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/mssn/.gradle/caches/transforms-2/files-2.1/50856e3b3dff4abeea0be4b760022d8b/core-1.2.0-alpha04/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/mssn/loginsample_app/build/flutter_uploader/intermediates/res/merged/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/mssn/.gradle/caches/transforms-2/files-2.1/50856e3b3dff4abeea0be4b760022d8b/core-1.2.0-alpha04/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/mssn/loginsample_app/build/flutter_uploader/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/mssn/.gradle/caches/transforms-2/files-2.1/50856e3b3dff4abeea0be4b760022d8b/core-1.2.0-alpha04/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/mssn/loginsample_app/build/flutter_uploader/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/mssn/.gradle/caches/transforms-2/files-2.1/50856e3b3dff4abeea0be4b760022d8b/core-1.2.0-alpha04/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/mssn/loginsample_app/build/flutter_uploader/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/mssn/.gradle/caches/transforms-2/files-2.1/50856e3b3dff4abeea0be4b760022d8b/core-1.2.0-alpha04/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    }
+]
