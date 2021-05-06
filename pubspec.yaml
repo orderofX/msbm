@@ -53,6 +53,7 @@ dependencies:
   flutter_session: ^0.1.1
   country_list_pick: ^1.0.1+2
   file_picker: ^2.1.5+1
+  shared_preferences: ^0.5.8
 
 
   
@@ -69,7 +70,7 @@ dev_dependencies:
     sdk: flutter
 
 flutter_icons:
-  android: launcher_icon
+  android: true
   ios: true 
   image_path: images/rec248.png   
 # For information on the generic Dart part of this file, see the

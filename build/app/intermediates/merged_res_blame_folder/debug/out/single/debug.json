@@ -1,26 +1,26 @@
 [
     {
-        "merged": "/Users/mssn/loginsample_app/build/app/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/mssn/loginsample_app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/mssn/loginsample_app/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/mssn/loginsample_app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/Users/mssn/loginsample_app/build/app/intermediates/res/merged/debug/mipmap-xxhdpi_rec248.png.flat",
+        "source": "/Users/mssn/loginsample_app/android/app/src/main/res/mipmap-xxhdpi/rec248.png"
     },
     {
         "merged": "/Users/mssn/loginsample_app/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
         "source": "/Users/mssn/loginsample_app/android/app/src/main/res/drawable/launch_background.xml"
     },
     {
-        "merged": "/Users/mssn/loginsample_app/build/app/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/mssn/loginsample_app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/Users/mssn/loginsample_app/build/app/intermediates/res/merged/debug/mipmap-mdpi_rec248.png.flat",
+        "source": "/Users/mssn/loginsample_app/android/app/src/main/res/mipmap-mdpi/rec248.png"
     },
     {
-        "merged": "/Users/mssn/loginsample_app/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/mssn/loginsample_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/Users/mssn/loginsample_app/build/app/intermediates/res/merged/debug/mipmap-hdpi_rec248.png.flat",
+        "source": "/Users/mssn/loginsample_app/android/app/src/main/res/mipmap-hdpi/rec248.png"
     },
     {
-        "merged": "/Users/mssn/loginsample_app/build/app/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/mssn/loginsample_app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/Users/mssn/loginsample_app/build/app/intermediates/res/merged/debug/mipmap-xhdpi_rec248.png.flat",
+        "source": "/Users/mssn/loginsample_app/android/app/src/main/res/mipmap-xhdpi/rec248.png"
+    },
+    {
+        "merged": "/Users/mssn/loginsample_app/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_rec248.png.flat",
+        "source": "/Users/mssn/loginsample_app/android/app/src/main/res/mipmap-xxxhdpi/rec248.png"
     }
 ]
